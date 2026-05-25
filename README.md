@@ -26,13 +26,15 @@ Every room includes:
 
 # 📚 Current Modules
 
-## 🔹 01 — Blue Team Introduction *(Completed So Far)*
+## 🔹 01 — Blue Team Introduction *(Completed)*
 - [Junior Security Analyst Intro](./01-Blue-Team-Introduction/Junior-Security-Analyst-Intro.md)
 - [SOC Role in Blue Team](./01-Blue-Team-Introduction/SOC-Role-in-Blue-Team.md)
 - [Humans as Attack Vectors](./01-Blue-Team-Introduction/Humans-as-Attack-Vectors.md)
 - [Systems as Attack Vectors](./01-Blue-Team-Introduction/Systems-as-Attack-Vectors.md)
 
 ---
+## 🔹 02 — SOC Team Internals *(Completed So Far)*
+- [SOC L1 Alert Triage](./02-SOC-Team-Internals/SOC-L1-Alert-Triage.md)
 
 # 🎯 Repository Goals
 
