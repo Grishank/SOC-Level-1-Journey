@@ -1,9 +1,7 @@
 # 🛡️ Junior Security Analyst Intro — TryHackMe Room
 
 <p align="center">
-  <img src="../../assets/Junior-Security-Analyst-Intro-banner.png" alt="Junior Security Analyst Intro Banner" width="900"/>
-</p>
-
+  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/Junior-Security-Analyst-Intro-banner.png?raw=true" alt="Junior Security Analyst Intro Banner" width="900"/>
 ---
 
 **Platform:** TryHackMe  
