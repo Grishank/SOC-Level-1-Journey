@@ -2,6 +2,10 @@
 
 This repository documents my hands-on learning journey through the **SOC Level 1 Path** on TryHackMe.
 
+<p align="center">
+  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/Systems-as-Attack-Vectors-banner.png?raw=true" alt="Systems as Attack Vectors Banner" width="900"/>
+</p>
+
 The goal of this repository is to build practical knowledge in:
 - Blue Team operations
 - Threat investigation
@@ -26,6 +30,7 @@ Every room includes:
 - [Junior Security Analyst Intro](./01-Blue-Team-Introduction/Junior-Security-Analyst-Intro.md)
 - [SOC Role in Blue Team](./01-Blue-Team-Introduction/SOC-Role-in-Blue-Team.md)
 - [Humans as Attack Vectors](./01-Blue-Team-Introduction/Humans-as-Attack-Vectors.md)
+- [Systems as Attack Vectors](./01-Blue-Team-Introduction/Systems-as-Attack-Vectors.md)
 
 ---
 
