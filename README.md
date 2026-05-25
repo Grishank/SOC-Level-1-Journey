@@ -3,7 +3,7 @@
 This repository documents my hands-on learning journey through the **SOC Level 1 Path** on TryHackMe.
 
 <p align="center">
-  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/Systems-as-Attack-Vectors-banner.png?raw=true" alt="Systems as Attack Vectors Banner" width="900"/>
+  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/First-Step-in-to-SOC-badge.png?raw=true" alt="Systems as Attack Vectors Banner" width="900"/>
 </p>
 
 The goal of this repository is to build practical knowledge in:
