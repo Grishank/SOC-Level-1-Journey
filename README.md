@@ -25,6 +25,7 @@ Every room includes:
 ## 🔹 01 — Blue Team Introduction *(Completed So Far)*
 - [Junior Security Analyst Intro](./01-Blue-Team-Introduction/Junior-Security-Analyst-Intro.md)
 - [SOC Role in Blue Team](./01-Blue-Team-Introduction/SOC-Role-in-Blue-Team.md)
+- [Humans as Attack Vectors](./01-Blue-Team-Introduction/Humans-as-Attack-Vectors.md)
 
 ---
 
