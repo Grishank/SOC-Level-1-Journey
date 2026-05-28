@@ -35,6 +35,8 @@ Every room includes:
 ---
 ## 🔹 02 — SOC Team Internals *(Completed So Far)*
 - [SOC L1 Alert Triage](./02-SOC-Team-Internals/SOC-L1-Alert-Triage.md)
+- [SOC L1 Alert Reporting](./02-SOC-Team-Internals/SOC-L1-Alert-Reporting.md)
+- [SOC Workbooks and Lookups](./02-SOC-Team-Internals/SOC-Workbooks-and-Lookups.md)
 
 # 🎯 Repository Goals
 
