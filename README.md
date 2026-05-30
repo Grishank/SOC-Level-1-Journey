@@ -37,6 +37,8 @@ Every room includes:
 - [SOC L1 Alert Triage](./02-SOC-Team-Internals/SOC-L1-Alert-Triage.md)
 - [SOC L1 Alert Reporting](./02-SOC-Team-Internals/SOC-L1-Alert-Reporting.md)
 - [SOC Workbooks and Lookups](./02-SOC-Team-Internals/SOC-Workbooks-and-Lookups.md)
+- [SOC Metrics and Objectives](./02-SOC-Team-Internals/SOC-Metrics-and-Objectives.md)
+- [Introduction to Phishing](./02-SOC-Team-Internals/Introduction-to-Phishing.md)
 
 # 🎯 Repository Goals
 
