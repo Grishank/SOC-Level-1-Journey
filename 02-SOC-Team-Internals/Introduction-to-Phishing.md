@@ -1,6 +1,11 @@
 # 🚨 SOC Alert Simulation — TryHackMe Challenge
 
 ---
+<p align="center">
+  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/Introduction-to-Phishing-banner.png?raw=true" alt="SOC L1 Alert Reporting Banner" width="900"/>
+</p>
+
+---
 
 **Platform:** TryHackMe  
 **Path:** SOC Level 1  
