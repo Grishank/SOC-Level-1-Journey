@@ -41,7 +41,7 @@ Every room includes:
 - [Introduction to Phishing](./02-SOC-Team-Internals/Introduction-to-Phishing.md)
 
 ---
-## 🔹 02 — Core SOC Solutions *(Completed So Far)*
+## 🔹 03 — Core SOC Solutions *(Completed So Far)*
 - [Introduction to EDR](./03-Core-SOC-Solutions/Introduction-to-EDR.md)
 
 ---
