@@ -43,6 +43,7 @@ Every room includes:
 ---
 ## 🔹 03 — Core SOC Solutions *(Completed So Far)*
 - [Introduction to EDR](./03-Core-SOC-Solutions/Introduction-to-EDR.md)
+- [Splunk: The Basics](./03-Core-SOC-Solutions/Splunk-The-Basics.md)
 
 ---
 # 🎯 Repository Goals
