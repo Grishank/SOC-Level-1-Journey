@@ -44,7 +44,7 @@ Every room includes:
 ## 🔹 03 — Core SOC Solutions *(Completed So Far)*
 - [Introduction to EDR](./03-Core-SOC-Solutions/Introduction-to-EDR.md)
 - [Splunk: The Basics](./03-Core-SOC-Solutions/Splunk-The-Basics.md)
-- [Elastic Stack: The Basics](./03-Core-SOC-Solutions/Elastic-Stack-The-Basic.md)
+- [Elastic Stack: The Basics](./03-Core-SOC-Solutions/Elastic-Stack-The-Basics.md)
 
 ---
 # 🎯 Repository Goals
