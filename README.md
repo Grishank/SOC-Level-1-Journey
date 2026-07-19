@@ -41,12 +41,16 @@ Every room includes:
 - [Introduction to Phishing](./02-SOC-Team-Internals/Introduction-to-Phishing.md)
 
 ---
-## 🔹 03 — Core SOC Solutions *(Completed So Far)*
+## 🔹 03 — Core SOC Solutions *(Completed)*
 - [Introduction to EDR](./03-Core-SOC-Solutions/Introduction-to-EDR.md)
 - [Splunk: The Basics](./03-Core-SOC-Solutions/Splunk-The-Basics.md)
 - [Elastic Stack: The Basics](./03-Core-SOC-Solutions/Elastic-Stack-The-Basics.md)
 - [Introduction to SOAR](./03-Core-SOC-Solutions/Introduction-to-SOAR.md)
+---
 
+## 🔹 03 — Cyber Defence Frameworks *(Completed So Far)*
+- [Pyramid Of Pain](./04-Cyber-Defence-Frameworks/Pyramid-Of-Pain.md)
+- 
 ---
 # 🎯 Repository Goals
 
