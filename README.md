@@ -48,9 +48,8 @@ Every room includes:
 - [Introduction to SOAR](./03-Core-SOC-Solutions/Introduction-to-SOAR.md)
 ---
 
-## 🔹 03 — Cyber Defence Frameworks *(Completed So Far)*
-- [Pyramid Of Pain](./04-Cyber-Defence-Frameworks/Pyramid-Of-Pain.md)
-- 
+## 🔹 03 — Cyber Defence Framework *(Completed So Far)*
+- [Pyramid Of Pain](./04-Cyber-Defence-Framework/Pyramid-Of-Pain.md)
 ---
 # 🎯 Repository Goals
 
