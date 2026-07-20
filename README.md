@@ -54,6 +54,7 @@ Every room includes:
 - [Unified Kill Chain](./04-Cyber-Defence-Framework/Unified-Kill-Chain.md)
 - [MITRE](./04-Cyber-Defence-Framework/MITRE.md)
 - [Summit](./04-Cyber-Defence-Framework/Summit.md)
+- [Eviction](./04-Cyber-Defence-Framework/Eviction.md)
 ---
 # 🎯 Repository Goals
 
