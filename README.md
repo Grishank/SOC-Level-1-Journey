@@ -48,13 +48,17 @@ Every room includes:
 - [Introduction to SOAR](./03-Core-SOC-Solutions/Introduction-to-SOAR.md)
 ---
 
-## 🔹 03 — Cyber Defence Framework *(Completed So Far)*
+## 🔹 04 — Cyber Defence Framework *(Completed)*
 - [Pyramid Of Pain](./04-Cyber-Defence-Framework/Pyramid-Of-Pain.md)
 - [Cyber Kill Chain](./04-Cyber-Defence-Framework/Cyber-Kill-Chain.md)
 - [Unified Kill Chain](./04-Cyber-Defence-Framework/Unified-Kill-Chain.md)
 - [MITRE](./04-Cyber-Defence-Framework/MITRE.md)
 - [Summit](./04-Cyber-Defence-Framework/Summit.md)
 - [Eviction](./04-Cyber-Defence-Framework/Eviction.md)
+---
+## 🔹 05 — Phishing Analysis *(Completed So Far)*
+- [Phishing Analysis Fundamentals](./05-Phishing-Analysis/Phishing-Analysis-Fundamentals.md)
+
 ---
 # 🎯 Repository Goals
 
