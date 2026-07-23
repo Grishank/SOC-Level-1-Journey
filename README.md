@@ -56,13 +56,17 @@ Every room includes:
 - [Summit](./04-Cyber-Defence-Framework/Summit.md)
 - [Eviction](./04-Cyber-Defence-Framework/Eviction.md)
 ---
-## 🔹 05 — Phishing Analysis *(Completed So Far)*
+## 🔹 05 — Phishing Analysis *(Completed)*
 - [Phishing Analysis Fundamentals](./05-Phishing-Analysis/Phishing-Analysis-Fundamentals.md)
 - [Phishing Emails in Action](./05-Phishing-Analysis/Phishing-Emails-in-Action.md)
 - [Phishing Analysis Tools](./05-Phishing-Analysis/Phishing-Analysis-Tools.md)
 - [Phishing Prevention](./05-Phishing-Analysis/Phishing-Prevention.md)
 - [The Greenholt Phish](./05-Phishing-Analysis/The-Greenholt-Phish.md)
 - [Snapped Phish-ing Line](./05-Phishing-Analysis/Snapped-Phish-ing-Line.md)
+- [Phishing Unfolding](./05-Phishing-Analysis/Phishing-Unfolding.md)
+---
+## 🔹 06 — Network Traffic Analysis *(Completed So Far)*
+- [Network Traffic Basics](./06-Network-Traffic-Analysis/Network-Traffic-Basics.md)
 ---
 # 🎯 Repository Goals
 
