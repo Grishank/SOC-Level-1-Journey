@@ -67,6 +67,9 @@ Every room includes:
 ---
 ## 🔹 06 — Network Traffic Analysis *(Completed So Far)*
 - [Network Traffic Basics](./06-Network-Traffic-Analysis/Network-Traffic-Basics.md)
+- [Wireshark: Packet Operations](./06-Network-Traffic-Analysis/Wireshark-Packet-Operations.md)
+- [Wireshark: Traffic Analysis](./06-Network-Traffic-Analysis/Wireshark-Traffic-Analysis.md)
+- [NetworkMiner](./06-Network-Traffic-Analysis/NetworkMiner.md)
 ---
 # 🎯 Repository Goals
 
