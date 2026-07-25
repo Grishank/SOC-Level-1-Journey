@@ -1,7 +1,7 @@
 # 🌐 Network Traffic Basics
 
 <p align="center">
-  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/Network-Traffic-Basics.png?raw=true" alt="Network Traffic Basics" width="900"/>
+  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/Network-Traffic-Basics-banner.png?raw=true" alt="Network Traffic Basics" width="900"/>
 </p>
 
 ---
