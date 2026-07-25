@@ -1,160 +1,148 @@
-# 🎣 Phishing Emails in Action — TryHackMe Room
+# 🌐 Network Traffic Basics — TryHackMe Room
 
 <p align="center">
-  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/Phishing-Emails-in-Action-banner.png?raw=true" alt="Phishing Emails in Action Banner" width="900"/>
+  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/Network-Traffic-Basics-banner.png?raw=true" alt="Network Traffic Basics Banner" width="900"/>
 </p>
 
 ---
 
 **Platform:** TryHackMe  
-**Path:** SOC Level 1 → Phishing Analysis  
+**Path:** SOC Level 1 → Network Traffic Analysis
 **Difficulty:** Easy  
-**Room Link:** https://tryhackme.com/room/phishingemails2rytmuv  
-**Status:** ✔ Completed  
+**Room Link:** https://tryhackme.com/room/networktrafficbasics  
+**Status:** ✔ Completed
 
 ---
 
 # 🧠 Room Overview
 
-**Phishing Emails in Action** provides hands-on practice analyzing real phishing emails. Instead of learning theory, this room focuses on identifying malicious indicators inside actual phishing messages by examining links, attachments, sender information, domains, and social engineering techniques.
+**Network Traffic Basics** introduces the core concepts of network traffic analysis and explains why monitoring network communications is essential for cybersecurity. The room covers how data travels across networks, where network traffic can be collected, and the common tools analysts use to capture and inspect packets.
 
-The room simulates realistic phishing campaigns that SOC analysts frequently encounter during incident investigations.
+These concepts form the foundation for packet analysis, intrusion detection, threat hunting, and incident response.
 
 ---
 
 # 🎯 Learning Objectives
 
-- Analyze real phishing emails
-- Identify phishing indicators
-- Detect malicious links and domains
-- Inspect suspicious attachments
-- Recognize social engineering tactics
-- Improve email investigation skills
+- Understand the purpose of network traffic analysis
+- Learn what network traffic consists of
+- Identify common network traffic sources
+- Understand network traffic flows
+- Explore methods of observing network traffic
+- Become familiar with traffic analysis tools
 
 ---
 
 # 📌 Task 1 — Introduction
 
-Introduced the objectives of phishing email investigations and explained how analysts identify malicious emails using technical indicators and behavioral clues.
+Introduced the importance of network traffic analysis in cybersecurity and explained how network visibility helps defenders monitor communications and investigate security incidents.
 
 ---
 
-# 📌 Task 2 — Cancel Your Order
+# 📌 Task 2 — What is the Purpose of Network Traffic Analysis?
 
-Investigated a fake order cancellation email.
+Learned why organizations analyze network traffic to:
 
-Learned to identify:
-
-- Fake sender addresses
-- Urgency tactics
-- Malicious hyperlinks
-- Brand impersonation
-
----
-
-# 📌 Task 3 — Track Your Package
-
-Analyzed a fraudulent package delivery notification.
-
-Focused on:
-
-- Delivery scams
-- URL verification
-- Suspicious domains
-- Fake shipping notifications
+- Detect malicious activity
+- Investigate incidents
+- Troubleshoot network issues
+- Monitor performance
+- Improve overall security visibility
 
 ---
 
-# 📌 Task 4 — Download Document Here
+# 📌 Task 3 — What Network Traffic Can We Observe?
 
-Investigated a phishing email delivering a malicious attachment.
+Explored the different components that make up network traffic.
 
-Examined:
+Covered:
 
-- Dangerous attachments
-- Office document malware
-- Macro-enabled documents
-- Attachment-based phishing
-
----
-
-# 📌 Task 5 — Your Account Is on Hold
-
-Analyzed an account suspension phishing email.
-
-Detected:
-
-- Credential harvesting attempts
-- Fake login pages
-- Financial institution impersonation
-- Urgent account verification requests
+- Packets
+- Frames
+- Protocols
+- IP addresses
+- Ports
+- Headers
+- Payloads
 
 ---
 
-# 📌 Task 6 — Your Recent Purchase
+# 📌 Task 4 — Network Traffic Sources and Flows
 
-Reviewed a fake purchase confirmation email.
+Learned where network traffic originates and how it moves through a network.
 
-Identified:
+Studied:
 
-- Payment scams
-- Refund fraud
-- Malicious download links
-- Social engineering techniques
+- Client-server communication
+- Internal traffic
+- External traffic
+- North-South traffic
+- East-West traffic
+- Network devices generating logs and traffic
 
 ---
 
-# 📌 Task 7 — Scheduled Shipment
+# 📌 Task 5 — How Can We Observe Network Traffic?
 
-Investigated another delivery-themed phishing campaign.
+Explored the methods and tools used to capture network traffic.
 
-Focused on:
+Introduced:
 
-- Shipment tracking scams
-- URL inspection
-- Sender validation
-- Indicators of compromise (IOCs)
+- Packet Capture (PCAP)
+- SPAN/Mirror Ports
+- Network TAPs
+- NetFlow
+- sFlow
+- IPFIX
+- Wireshark
+- tcpdump
+- Zeek
+- Suricata
 
 ---
 
 # 🛡️ Skills Practiced
 
-- Email investigation
-- Header inspection
-- URL analysis
-- Attachment analysis
-- Domain verification
-- Sender validation
-- IOC identification
-- Social engineering detection
+- Network Traffic Fundamentals
+- Packet Analysis Concepts
+- Network Visibility
+- Traffic Collection Methods
+- Protocol Awareness
+- Security Monitoring
+- Network Investigation
 
 ---
 
 # 🔑 Key Concepts
 
-- Brand Impersonation
-- Credential Harvesting
-- Malicious Attachments
-- Suspicious URLs
-- Fake Domains
-- Delivery Scams
-- Invoice Fraud
-- Email Analysis
-- Indicators of Compromise (IOCs)
+- Network Traffic
+- Packets
+- Frames
+- Protocols
+- Packet Capture (PCAP)
+- NetFlow
+- SPAN Port
+- Network TAP
+- East-West Traffic
+- North-South Traffic
+- Network Monitoring
+- Security Visibility
 
 ---
 
 # 💬 Key Takeaway
 
-> "Effective phishing detection relies on combining technical analysis—such as examining headers, links, and attachments—with identifying social engineering tactics designed to manipulate the recipient."
+> "Every action on a network generates traffic. By collecting and analyzing that traffic, security analysts gain the visibility needed to detect threats, investigate incidents, and understand how attackers operate within a network."
 
 ---
 
 # 🚀 Next Steps
 
-- Malware Traffic Analysis
-- Threat Intelligence
-- Email Header Deep Dive
-- SOC Alert Investigation
-- Incident Response for Phishing
-- Malware Analysis
+- Wireshark: The Basics
+- Wireshark Traffic Analysis
+- Tcpdump
+- Zeek
+- Suricata
+- NetworkMiner
+- PCAP Analysis
+- Threat Hunting with Network Traffic
