@@ -1,186 +1,147 @@
-# 🌐 Network Traffic Basics
+# 🌐 Network Traffic Basics — TryHackMe Room
 
 <p align="center">
-  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/Network-Traffic-Basics-banner.png?raw=true" alt="Network Traffic Basics" width="900"/>
+  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/Network-Traffic-Basics-banner.png?raw=true" alt="Network Traffic Basics Banner" width="900"/>
 </p>
 
 ---
 
 **Platform:** TryHackMe  
-**Room:** Network Traffic Basics  
+**Path:** SOC Level 1 → Network Traffic Analysis 
 **Difficulty:** Easy  
+**Room Link:** https://tryhackme.com/room/networktrafficbasics  
 **Status:** ✔ Completed
 
 ---
 
-# 🧠 Overview
+# 🧠 Room Overview
 
-The **Network Traffic Basics** room introduces the fundamentals of network traffic analysis, a core skill for SOC analysts, incident responders, and network defenders. It explains what network traffic is, why monitoring it is essential, where traffic originates, and the common methods used to capture and analyze it.
+**Network Traffic Basics** introduces the core concepts of network traffic analysis and explains why monitoring network communications is essential for cybersecurity. The room covers how data travels across networks, where network traffic can be collected, and the common tools analysts use to capture and inspect packets.
 
-Understanding network traffic provides valuable visibility into how devices communicate and helps identify suspicious or malicious activity within an environment.
+These concepts form the foundation for packet analysis, intrusion detection, threat hunting, and incident response.
 
 ---
 
-# 🎯 Objectives
+# 🎯 Learning Objectives
 
 - Understand the purpose of network traffic analysis
 - Learn what network traffic consists of
 - Identify common network traffic sources
 - Understand network traffic flows
-- Explore methods used to observe and capture traffic
-- Learn why packet analysis is essential in cybersecurity
+- Explore methods of observing network traffic
+- Become familiar with traffic analysis tools
 
 ---
 
-# 📚 Topics Covered
+# 📌 Task 1 — Introduction
 
-### Purpose of Network Traffic Analysis
-
-- Network visibility
-- Threat detection
-- Incident response
-- Troubleshooting
-- Performance monitoring
-- Security monitoring
+Introduced the importance of network traffic analysis in cybersecurity and explained how network visibility helps defenders monitor communications and investigate security incidents.
 
 ---
 
-### Network Traffic Components
+# 📌 Task 2 — What is the Purpose of Network Traffic Analysis?
+
+Learned why organizations analyze network traffic to:
+
+- Detect malicious activity
+- Investigate incidents
+- Troubleshoot network issues
+- Monitor performance
+- Improve overall security visibility
+
+---
+
+# 📌 Task 3 — What Network Traffic Can We Observe?
+
+Explored the different components that make up network traffic.
+
+Covered:
 
 - Packets
 - Frames
 - Protocols
-- Source & Destination IP addresses
+- IP addresses
 - Ports
-- Payloads
 - Headers
+- Payloads
 
 ---
 
-### Network Traffic Sources
+# 📌 Task 4 — Network Traffic Sources and Flows
 
-- End-user devices
-- Servers
-- Firewalls
-- Routers
-- Switches
-- DNS Servers
-- Web Servers
-- Email Servers
-- Cloud Infrastructure
+Learned where network traffic originates and how it moves through a network.
 
----
+Studied:
 
-### Network Traffic Flow
-
-- Client → Server communication
-- Internal network communication
-- External internet communication
-- Inbound traffic
-- Outbound traffic
-- East-West traffic
+- Client-server communication
+- Internal traffic
+- External traffic
 - North-South traffic
+- East-West traffic
+- Network devices generating logs and traffic
 
 ---
 
-### Network Traffic Collection Methods
+# 📌 Task 5 — How Can We Observe Network Traffic?
+
+Explored the methods and tools used to capture network traffic.
+
+Introduced:
 
 - Packet Capture (PCAP)
-- SPAN / Mirror Ports
-- TAP Devices
-- Network Sensors
-- IDS/IPS
-- Firewalls
+- SPAN/Mirror Ports
+- Network TAPs
 - NetFlow
 - sFlow
 - IPFIX
-
----
-
-### Common Traffic Analysis Tools
-
 - Wireshark
 - tcpdump
 - Zeek
 - Suricata
-- Security Onion
-- NetFlow Collectors
 
 ---
 
-# 🛠️ Skills Practiced
+# 🛡️ Skills Practiced
 
-- Network Fundamentals
-- Traffic Analysis Concepts
-- Packet Inspection Basics
-- Network Monitoring
+- Network Traffic Fundamentals
+- Packet Analysis Concepts
+- Network Visibility
 - Traffic Collection Methods
-- Security Visibility
-- SOC Monitoring Concepts
-
----
-
-# 🔑 Key Concepts Learned
-
-- Every device generates network traffic that can be monitored.
-- Packets contain valuable forensic evidence.
-- Network traffic provides visibility into attacker behavior.
-- Packet captures are critical during investigations.
-- Network sensors help detect malicious communications.
-- Different collection methods serve different monitoring purposes.
-
----
-
-# 💼 SOC Relevance
-
-Network traffic analysis is one of the most important skills for a SOC Analyst because it enables analysts to:
-
-- Detect malware communication
-- Identify command-and-control (C2) traffic
-- Investigate suspicious connections
-- Monitor lateral movement
-- Analyze data exfiltration attempts
-- Support incident response investigations
-
----
-
-# 📈 Outcome
-
-Successfully completed all room tasks and gained a solid understanding of:
-
-- Why network traffic analysis is important
-- How network communication works
-- Where network traffic originates
-- Methods used to capture network traffic
-- Tools commonly used in enterprise environments
-
----
-
-# 🚀 Skills Reinforced
-
-- Network Security
-- Traffic Analysis
-- Packet Analysis Fundamentals
+- Protocol Awareness
 - Security Monitoring
-- SOC Operations
-- Threat Detection
-- Incident Response Fundamentals
+- Network Investigation
+
+---
+
+# 🔑 Key Concepts
+
+- Network Traffic
+- Packets
+- Frames
+- Protocols
+- Packet Capture (PCAP)
+- NetFlow
+- SPAN Port
+- Network TAP
+- East-West Traffic
+- North-South Traffic
+- Network Monitoring
+- Security Visibility
 
 ---
 
 # 💬 Key Takeaway
 
-> "Every action on a network leaves traces. Network traffic analysis enables defenders to observe those traces, identify malicious behavior, and respond before attackers achieve their objectives."
+> "Every action on a network generates traffic. By collecting and analyzing that traffic, security analysts gain the visibility needed to detect threats, investigate incidents, and understand how attackers operate within a network."
 
 ---
 
-# 📚 Next Steps
+# 🚀 Next Steps
 
 - Wireshark: The Basics
 - Wireshark Traffic Analysis
 - Tcpdump
 - Zeek
-- Snort
 - Suricata
 - NetworkMiner
 - PCAP Analysis
