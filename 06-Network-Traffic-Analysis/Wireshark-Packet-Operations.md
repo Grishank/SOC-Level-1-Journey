@@ -6,11 +6,11 @@
 
 ---
 
-**Platform:** TryHackMe  
-**Path:** SOC Level 1 → Network Traffic Analysis  
-**Difficulty:** Easy  
-**Room Link:** https://tryhackme.com/room/wiresharkpacketoperations  
-**Status:** ✔ Completed
+**Platform:** TryHackMe                                                                                                                                         
+**Path:** SOC Level 1 → Network Traffic Analysis                                                                                                             
+**Difficulty:** Easy                                                                                                                                          
+**Room Link:** https://tryhackme.com/room/wiresharkpacketoperations                                                                                                          
+**Status:** ✔ Completed               
 
 ---
 
