@@ -1,7 +1,7 @@
 # 🦈 Wireshark: Traffic Analysis — TryHackMe Room
 
 <p align="center">
-  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/Wireshark-Traffic-Analysis-banner.png?raw=true" alt="Wireshark Traffic Analysis Banner" width="900"/>
+  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/Wireshark-badge.png?raw=true" alt="Wireshark Traffic Analysis Banner" width="900"/>
 </p>
 
 ---
