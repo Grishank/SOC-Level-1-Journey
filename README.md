@@ -75,6 +75,7 @@ Every room includes:
 - [Network Security Essentials](./07-Network-Security-Monitoring/Network-Security-Essentials.md)
 - [Network Discovery Detection](./07-Network-Security-Monitoring/Network-Discovery-Detection.md)
 - [Data Exfiltration Detection](./07-Network-Security-Monitoring/Data-Exfiltration-Detection.md)
+- [Men in the Middle Detection](./07-Network-Security-Monitoring/Men-in-the-Middle-Detection.md)
 ---
 # 🎯 Repository Goals
 
