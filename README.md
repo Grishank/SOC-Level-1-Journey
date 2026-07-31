@@ -72,7 +72,7 @@ Every room includes:
 - [NetworkMiner](./06-Network-Traffic-Analysis/NetworkMiner.md)
 ---
 ## 🔹 07 — Network Security Monitoring *(Completed So Far)*
-- [Network Security Essentials](./06-Network-Security-Monitoring/Network-Security-Essentials.md)
+- [Network Security Essentials](./07-Network-Security-Monitoring/Network-Security-Essentials.md)
 ---
 # 🎯 Repository Goals
 
