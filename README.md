@@ -76,6 +76,7 @@ Every room includes:
 - [Network Discovery Detection](./07-Network-Security-Monitoring/Network-Discovery-Detection.md)
 - [Data Exfiltration Detection](./07-Network-Security-Monitoring/Data-Exfiltration-Detection.md)
 - [Man in the Middle Detection](./07-Network-Security-Monitoring/Man-in-the-Middle-Detection.md)
+- [Snort](./07-Network-Security-Monitoring/Snort.md)
 ---
 # 🎯 Repository Goals
 
