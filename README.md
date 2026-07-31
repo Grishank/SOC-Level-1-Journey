@@ -71,12 +71,15 @@ Every room includes:
 - [Wireshark: Traffic Analysis](./06-Network-Traffic-Analysis/Wireshark-Traffic-Analysis.md)
 - [NetworkMiner](./06-Network-Traffic-Analysis/NetworkMiner.md)
 ---
-## 🔹 07 — Network Security Monitoring *(Completed So Far)*
+## 🔹 07 — Network Security Monitoring *(Completed)*
 - [Network Security Essentials](./07-Network-Security-Monitoring/Network-Security-Essentials.md)
 - [Network Discovery Detection](./07-Network-Security-Monitoring/Network-Discovery-Detection.md)
 - [Data Exfiltration Detection](./07-Network-Security-Monitoring/Data-Exfiltration-Detection.md)
 - [Man in the Middle Detection](./07-Network-Security-Monitoring/Man-in-the-Middle-Detection.md)
 - [Snort](./07-Network-Security-Monitoring/Snort.md)
+---
+## 🔹 08 — Web Security Monitoring *(Completed So Far)*
+- [Web Security Essentials](./08-Web-Security-Monitoring/Web-Security-Essentials.md)
 ---
 # 🎯 Repository Goals
 
