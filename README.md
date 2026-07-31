@@ -65,11 +65,14 @@ Every room includes:
 - [Snapped Phish-ing Line](./05-Phishing-Analysis/Snapped-Phish-ing-Line.md)
 - [Phishing Unfolding](./05-Phishing-Analysis/Phishing-Unfolding.md)
 ---
-## 🔹 06 — Network Traffic Analysis *(Completed So Far)*
+## 🔹 06 — Network Traffic Analysis *(Completed)*
 - [Network Traffic Basics](./06-Network-Traffic-Analysis/Network-Traffic-Basics.md)
 - [Wireshark: Packet Operations](./06-Network-Traffic-Analysis/Wireshark-Packet-Operations.md)
 - [Wireshark: Traffic Analysis](./06-Network-Traffic-Analysis/Wireshark-Traffic-Analysis.md)
 - [NetworkMiner](./06-Network-Traffic-Analysis/NetworkMiner.md)
+---
+## 🔹 07 — Network Security Monitoring *(Completed So Far)*
+- [Network Security Essentials](./06-Network-Security-Monitoring/Network-Security-Essentials.md)
 ---
 # 🎯 Repository Goals
 
