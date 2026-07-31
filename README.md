@@ -73,6 +73,8 @@ Every room includes:
 ---
 ## 🔹 07 — Network Security Monitoring *(Completed So Far)*
 - [Network Security Essentials](./07-Network-Security-Monitoring/Network-Security-Essentials.md)
+- [Network Discovery Detection](./07-Network-Security-Monitoring/Network-Discovery-Detection.md)
+- [Data Exfiltration Detection](./07-Network-Security-Monitoring/Data-Exfiltration-Detection.md)
 ---
 # 🎯 Repository Goals
 
