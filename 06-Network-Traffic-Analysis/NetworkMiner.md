@@ -1,7 +1,7 @@
 # 🔍 NetworkMiner — TryHackMe Room
 
 <p align="center">
-  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/NetworkMiner-banner.png?raw=true" alt="NetworkMiner Banner" width="900"/>
+  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/NetwokMiner-banner.png?raw=true" alt="NetworkMiner Banner" width="900"/>
 </p>
 
 ---
