@@ -193,10 +193,23 @@ The goal is to build a public portfolio that showcases my hands-on Blue Team ski
 # 📂 Repository Structure
 
 ```bash
-SOC-Level-1-Journey/
+SOC-Level-1-Journey
 │
-├── 01-Blue-Team-Introduction/
-├── assets/
+├── 01-Blue-Team-Introduction
+├── 02-SOC-Team-Internals
+├── 03-Core-SOC-Solutions
+├── 04-Cyber-Defence-Framework
+├── 05-Phishing-Analysis
+├── 06-Network-Traffic-Analysis
+├── 07-Network-Security-Monitoring
+├── 08-Web-Security-Monitoring
+├── 09-Windows-Security-Monitoring
+├── 10-Linux-Security-Monitoring
+├── 11-Malware-Concepts-for-SOC
+├── 12-Threat-Analysis-Tools
+├── 13-SIEM-Triage-for-SOC
+├── 14-SOC-Level-1-Capstone-Challenges
+├── assets
 └── README.md
 ```
 
