@@ -84,17 +84,20 @@ Every room includes:
 - [Detecting Web Shells](./08-Web-Security-Monitoring/Detecting-Web-Shells.md)
 - [Detecting Web DDoS](./08-Web-Security-Monitoring/Detecting-Web-DDoS.md)
 ---
-## 🔹 09 — Windows Security Monitoring *(Completed So Far)*
+## 🔹 09 — Windows Security Monitoring *(Completed)*
 - [Windows Logging for SOC](./09-Windows-Security-Monitoring/Windows-Logging-for-SOC.md)
 - [Windows Threat Detection 1](./09-Windows-Security-Monitoring/Windows-Threat-Detection-1.md)
 - [Windows Threat Detection 2](./09-Windows-Security-Monitoring/Windows-Threat-Detection-2.md)
 - [Windows Threat Detection 3](./09-Windows-Security-Monitoring/Windows-Threat-Detection-3.md)
 ---
-## 🔹 10 — Linux Security Monitoring *(Completed So Far)*
+## 🔹 10 — Linux Security Monitoring *(Completed)*
 - [Linux Logging for SOC](./10-Linux-Security-Monitoring/Linux-Logging-for-SOC.md)
 - [Linux Threat Detection 1](./10-Linux-Security-Monitoring/Linux-Threat-Detection-1.md)
 - [Linux Threat Detection 2](./10-Linux-Security-Monitoring/Linux-Threat-Detection-2.md)
 - [Linux Threat Detection 3](./10-Linux-Security-Monitoring/Linux-Threat-Detection-3.md)
+---
+## 🔹 11 — Malware Concepts for SOC *(Completed So Far)*
+- [Malware Classification](./11-Malware-Concepts-for-SOC/Malware-Classification.md)
 ---
 # 🎯 Repository Goals
 
