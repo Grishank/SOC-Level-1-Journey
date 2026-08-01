@@ -1,35 +1,171 @@
-# 🛡️ SOC Level 1 Journey — TryHackMe
+# 🛡️ SOC Level 1 — TryHackMe Journey
+
+This repository documents my hands-on learning journey through the **SOC Level 1 Path** on TryHackMe.
 
 <p align="center">
-  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/THM-SOC-Simulator1.png?raw=true" width="900">
+  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/First-Step-in-to-SOC-badge.png?raw=true" alt="Systems as Attack Vectors Banner" width="900"/>
 </p>
 
-<p align="center">
+The goal of this repository is to build practical knowledge in:
+- Blue Team operations
+- Threat investigation
+- SIEM analysis
+- Log analysis
+- Incident response
+- Detection engineering
+- Defensive security workflows
 
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Platform](https://img.shields.io/badge/TryHackMe-SOC%20Level%201-red)
-![Rooms](https://img.shields.io/badge/Rooms-56+-blue)
-![Writeups](https://img.shields.io/badge/Writeups-56+-orange)
-![Blue%20Team](https://img.shields.io/badge/Focus-Blue%20Team-blue)
-
-</p>
+Every room includes:
+- Notes and summaries
+- Key concepts
+- Important commands/tools
+- Investigation workflows
+- Practical learning points
 
 ---
 
-## 📖 About
+# 📚 Current Modules
 
-This repository documents my complete journey through the **TryHackMe SOC Level 1 Learning Path**, where I developed practical Blue Team skills by solving hands-on investigation labs, SIEM challenges, malware analysis exercises, phishing investigations, and full incident response scenarios.
+## 🔹 01 — Blue Team Introduction *(Completed)*
+- [Junior Security Analyst Intro](./01-Blue-Team-Introduction/Junior-Security-Analyst-Intro.md)
+- [SOC Role in Blue Team](./01-Blue-Team-Introduction/SOC-Role-in-Blue-Team.md)
+- [Humans as Attack Vectors](./01-Blue-Team-Introduction/Humans-as-Attack-Vectors.md)
+- [Systems as Attack Vectors](./01-Blue-Team-Introduction/Systems-as-Attack-Vectors.md)
 
-The repository contains detailed write-ups, investigation notes, workflows, and learning summaries for every completed room.
+---
+## 🔹 02 — SOC Team Internals *(Completed)*
+- [SOC L1 Alert Triage](./02-SOC-Team-Internals/SOC-L1-Alert-Triage.md)
+- [SOC L1 Alert Reporting](./02-SOC-Team-Internals/SOC-L1-Alert-Reporting.md)
+- [SOC Workbooks and Lookups](./02-SOC-Team-Internals/SOC-Workbooks-and-Lookups.md)
+- [SOC Metrics and Objectives](./02-SOC-Team-Internals/SOC-Metrics-and-Objectives.md)
+- [Introduction to Phishing](./02-SOC-Team-Internals/Introduction-to-Phishing.md)
+
+---
+## 🔹 03 — Core SOC Solutions *(Completed)*
+- [Introduction to EDR](./03-Core-SOC-Solutions/Introduction-to-EDR.md)
+- [Splunk: The Basics](./03-Core-SOC-Solutions/Splunk-The-Basics.md)
+- [Elastic Stack: The Basics](./03-Core-SOC-Solutions/Elastic-Stack-The-Basics.md)
+- [Introduction to SOAR](./03-Core-SOC-Solutions/Introduction-to-SOAR.md)
+---
+
+## 🔹 04 — Cyber Defence Framework *(Completed)*
+- [Pyramid Of Pain](./04-Cyber-Defence-Framework/Pyramid-Of-Pain.md)
+- [Cyber Kill Chain](./04-Cyber-Defence-Framework/Cyber-Kill-Chain.md)
+- [Unified Kill Chain](./04-Cyber-Defence-Framework/Unified-Kill-Chain.md)
+- [MITRE](./04-Cyber-Defence-Framework/MITRE.md)
+- [Summit](./04-Cyber-Defence-Framework/Summit.md)
+- [Eviction](./04-Cyber-Defence-Framework/Eviction.md)
+---
+## 🔹 05 — Phishing Analysis *(Completed)*
+- [Phishing Analysis Fundamentals](./05-Phishing-Analysis/Phishing-Analysis-Fundamentals.md)
+- [Phishing Emails in Action](./05-Phishing-Analysis/Phishing-Emails-in-Action.md)
+- [Phishing Analysis Tools](./05-Phishing-Analysis/Phishing-Analysis-Tools.md)
+- [Phishing Prevention](./05-Phishing-Analysis/Phishing-Prevention.md)
+- [The Greenholt Phish](./05-Phishing-Analysis/The-Greenholt-Phish.md)
+- [Snapped Phish-ing Line](./05-Phishing-Analysis/Snapped-Phish-ing-Line.md)
+- [Phishing Unfolding](./05-Phishing-Analysis/Phishing-Unfolding.md)
+---
+## 🔹 06 — Network Traffic Analysis *(Completed)*
+- [Network Traffic Basics](./06-Network-Traffic-Analysis/Network-Traffic-Basics.md)
+- [Wireshark: Packet Operations](./06-Network-Traffic-Analysis/Wireshark-Packet-Operations.md)
+- [Wireshark: Traffic Analysis](./06-Network-Traffic-Analysis/Wireshark-Traffic-Analysis.md)
+- [NetworkMiner](./06-Network-Traffic-Analysis/NetworkMiner.md)
+---
+## 🔹 07 — Network Security Monitoring *(Completed)*
+- [Network Security Essentials](./07-Network-Security-Monitoring/Network-Security-Essentials.md)
+- [Network Discovery Detection](./07-Network-Security-Monitoring/Network-Discovery-Detection.md)
+- [Data Exfiltration Detection](./07-Network-Security-Monitoring/Data-Exfiltration-Detection.md)
+- [Man in the Middle Detection](./07-Network-Security-Monitoring/Man-in-the-Middle-Detection.md)
+- [Snort](./07-Network-Security-Monitoring/Snort.md)
+---
+## 🔹 08 — Web Security Monitoring *(Completed)*
+- [Web Security Essentials](./08-Web-Security-Monitoring/Web-Security-Essentials.md)
+- [Detecting Web Attacks](./08-Web-Security-Monitoring/Detecting-Web-Attacks.md)
+- [Detecting Web Shells](./08-Web-Security-Monitoring/Detecting-Web-Shells.md)
+- [Detecting Web DDoS](./08-Web-Security-Monitoring/Detecting-Web-DDoS.md)
+---
+## 🔹 09 — Windows Security Monitoring *(Completed)*
+- [Windows Logging for SOC](./09-Windows-Security-Monitoring/Windows-Logging-for-SOC.md)
+- [Windows Threat Detection 1](./09-Windows-Security-Monitoring/Windows-Threat-Detection-1.md)
+- [Windows Threat Detection 2](./09-Windows-Security-Monitoring/Windows-Threat-Detection-2.md)
+- [Windows Threat Detection 3](./09-Windows-Security-Monitoring/Windows-Threat-Detection-3.md)
+---
+## 🔹 10 — Linux Security Monitoring *(Completed)*
+- [Linux Logging for SOC](./10-Linux-Security-Monitoring/Linux-Logging-for-SOC.md)
+- [Linux Threat Detection 1](./10-Linux-Security-Monitoring/Linux-Threat-Detection-1.md)
+- [Linux Threat Detection 2](./10-Linux-Security-Monitoring/Linux-Threat-Detection-2.md)
+- [Linux Threat Detection 3](./10-Linux-Security-Monitoring/Linux-Threat-Detection-3.md)
+---
+## 🔹 11 — Malware Concepts for SOC *(Completed)*
+- [Malware Classification](./11-Malware-Concepts-for-SOC/Malware-Classification.md)
+- [Intro to Malware Analysis](./11-Malware-Concepts-for-SOC/Intro-to-Malware-Analysis.md)
+- [Living Off the Land Attacks](./11-Malware-Concepts-for-SOC/Living-Off-the-Land-Attacks.md)
+- [Shadow Trace](./11-Malware-Concepts-for-SOC/Shadow-Trace.md)
+---
+## 🔹 12 — Threat Analysis Tools *(Completed)*
+- [Intro to Cyber Threat Intel](./12-Threat-Analysis-Tools/Intro-to-Cyber-Threat-Intel.md)
+- [File and Hash Threat Intel](./12-Threat-Analysis-Tools/File-and-Hash-Threat-Intel.md)
+- [IP and Domain Threat Intel](./12-Threat-Analysis-Tools/IP-and-Domain-Threat-Intel.md)
+- [Invite Only](./12-Threat-Analysis-Tools/Invite-Only.md)
+---
+
+## 🔹 13 — SIEM Triage for SOC *(Completed)*
+- [Log Analysis with SIEM](./13-SIEM-Triage-for-SOC/Log-Analysis-with-SIEM.md)
+- [Alert Triage with Splunk](./13-SIEM-Triage-for-SOC/Alert-Triage-with-Splunk.md)
+- [Alert Triage with Elastic](./13-SIEM-Triage-for-SOC/Alert-Triage-with-Elastic.md)
+- [ItsyBitsy](./13-SIEM-Triage-for-SOC/ItsyBitsy.md)
+- [Benign](./13-SIEM-Triage-for-SOC/Benign.md)
+---
+## 🔹 14 — SOC Level 1 Capstone Challenges *(Completed So Far)*
+- [Tempest](./14-SOC-Level-1-Capstone-Challanges/Tempest.md)
+- [Boogeyman 1](./14-SOC-Level-1-Capstone-Challanges/Boogeyman-1.md)
+- [Boogeyman 2](./14-SOC-Level-1-Capstone-Challanges/Boogeyman-2.md)
+- [Boogeyman 3](./14-SOC-Level-1-Capstone-Challanges/Boogeyman-3.md)
+- [Extracted](./14-SOC-Level-1-Capstone-Challanges/Extracted.md)
+---
+# 🎯 Repository Goals
+
+Through this journey, I aim to strengthen:
+- Security monitoring skills
+- Threat detection workflows
+- SOC investigation methodology
+- Windows & Linux investigation basics
+- SIEM investigation skills
+- Blue Team operational knowledge
+- Real-world SOC analyst thinking
 
 ---
 
-## 🏆 Achievement
+# 🧠 Topics Covered
+- SOC Fundamentals
+- SIEM Platforms
+- Log Analysis
+- Threat Hunting
+- Incident Response
+- Security Monitoring
+- Network Traffic Analysis
+- Detection Engineering Basics
 
-✅ Successfully completed the **SOC Level 1 Learning Path**
+---
 
-📅 Completion Date: **1 August 2026**
+# 📂 Repository Structure
 
-⏱️ Total Learning Time: **65 Hours 29 Minutes**
+```bash
+SOC-Level-1-Journey/
+│
+├── 01-Blue-Team-Introduction/
+├── assets/
+└── README.md
+```
 
-📜 Official TryHackMe Certificate included.
+---
+
+# 🚀 Ongoing Journey
+
+This repository will continue growing as I progress through:
+- SOC Level 1 Labs
+- Blue Team Investigations
+- SIEM Challenges
+- Threat Detection Labs
+- Incident Response Scenarios
+- Real-world Security Analysis
