@@ -102,11 +102,15 @@ Every room includes:
 - [Living Off the Land Attacks](./11-Malware-Concepts-for-SOC/Living-Off-the-Land-Attacks.md)
 - [Shadow Trace](./11-Malware-Concepts-for-SOC/Shadow-Trace.md)
 ---
-## 🔹 12 — Threat Analysis Tools *(Completed So Far)*
+## 🔹 12 — Threat Analysis Tools *(Completed)*
 - [Intro to Cyber Threat Intel](./12-Threat-Analysis-Tools/Intro-to-Cyber-Threat-Intel.md)
 - [File and Hash Threat Intel](./12-Threat-Analysis-Tools/File-and-Hash-Threat-Intel.md)
 - [IP and Domain Threat Intel](./12-Threat-Analysis-Tools/IP-and-Domain-Threat-Intel.md)
 - [Invite Only](./12-Threat-Analysis-Tools/Invite-Only.md)
+---
+
+## 🔹 13 — SIEM Triage for SOC *(Completed So Far)*
+- [Log Analysis with SIEM](./13-SIEM-Triage-for-SOC/Log-Analysis-with-SIEM.md)
 ---
 # 🎯 Repository Goals
 
