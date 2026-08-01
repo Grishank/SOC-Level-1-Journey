@@ -1,7 +1,7 @@
 # 🐧 Linux Logging For SOC — TryHackMe Room
 
 <p align="center">
-  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/Linux-Logging-For-SOC-banner.png?raw=true" alt="Linux Logging For SOC Banner" width="900"/>
+  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/Linux-Logging-for-SOC-banner.png?raw=true" alt="Linux Logging For SOC Banner" width="900"/>
 </p>
 
 ---
