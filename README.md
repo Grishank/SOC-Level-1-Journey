@@ -96,11 +96,14 @@ Every room includes:
 - [Linux Threat Detection 2](./10-Linux-Security-Monitoring/Linux-Threat-Detection-2.md)
 - [Linux Threat Detection 3](./10-Linux-Security-Monitoring/Linux-Threat-Detection-3.md)
 ---
-## 🔹 11 — Malware Concepts for SOC *(Completed So Far)*
+## 🔹 11 — Malware Concepts for SOC *(Completed)*
 - [Malware Classification](./11-Malware-Concepts-for-SOC/Malware-Classification.md)
 - [Intro to Malware Analysis](./11-Malware-Concepts-for-SOC/Intro-to-Malware-Analysis.md)
 - [Living Off the Land Attacks](./11-Malware-Concepts-for-SOC/Living-Off-the-Land-Attacks.md)
 - [Shadow Trace](./11-Malware-Concepts-for-SOC/Shadow-Trace.md)
+---
+## 🔹 12 — Threat Analysis Tools *(Completed So Far)*
+- [Intro to Cyber Threat Intel](./12-Threat-Analysis-Tools/Intro-to-Cyber-Threat-Intel.md)
 ---
 # 🎯 Repository Goals
 
