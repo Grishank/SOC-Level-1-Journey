@@ -112,6 +112,7 @@ Every room includes:
 ## 🔹 13 — SIEM Triage for SOC *(Completed So Far)*
 - [Log Analysis with SIEM](./13-SIEM-Triage-for-SOC/Log-Analysis-with-SIEM.md)
 - [Alert Triage with Splunk](./13-SIEM-Triage-for-SOC/Alert-Triage-with-Splunk.md)
+- [Alert Triage with Elastic](./13-SIEM-Triage-for-SOC/Alert-Triage-with-Elastic.md)
 ---
 # 🎯 Repository Goals
 
