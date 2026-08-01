@@ -114,6 +114,7 @@ Every room includes:
 - [Alert Triage with Splunk](./13-SIEM-Triage-for-SOC/Alert-Triage-with-Splunk.md)
 - [Alert Triage with Elastic](./13-SIEM-Triage-for-SOC/Alert-Triage-with-Elastic.md)
 - [ItsyBitsy](./13-SIEM-Triage-for-SOC/ItsyBitsy.md)
+- [Benign](./13-SIEM-Triage-for-SOC/Benign.md)
 ---
 # 🎯 Repository Goals
 
