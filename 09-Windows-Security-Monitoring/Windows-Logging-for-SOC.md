@@ -1,7 +1,7 @@
 # 🪟 Windows Logging for SOC — TryHackMe Room
 
 <p align="center">
-  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/Wlndows-Logging-for-SOC-banner.png?raw=true" alt="Windows Logging for SOC Banner" width="900"/>
+  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/WLndows-Logging-for-SOC-banner.png?raw=true" alt="Windows Logging for SOC Banner" width="900"/>
 </p>
 
 ---
