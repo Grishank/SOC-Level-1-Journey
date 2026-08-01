@@ -218,8 +218,7 @@ With the SOC Level 1 path completed, I am continuing to expand my Blue Team skil
 # 📜 Certification
 
 <p align="center">
-  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/THM-Z70PBGUTI.pdf?raw=true" alt="Systems as Attack Vectors Banner" width="900"/>
-</p>
+  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/SOC-Level-1.jpg?raw=true" alt="Final Certificate" width="900"/>
 </p>
 
 **TryHackMe — SOC Level 1 Learning Path**
