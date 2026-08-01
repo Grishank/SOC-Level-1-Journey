@@ -119,6 +119,7 @@ Every room includes:
 ## 🔹 14 — SOC Level 1 Capstone Challenges *(Completed So Far)*
 - [Tempest](./14-SOC-Level-1-Capstone-Challanges/Tempest.md)
 - [Boogeyman 1](./14-SOC-Level-1-Capstone-Challanges/Boogeyman-1.md)
+- [Boogeyman 2](./14-SOC-Level-1-Capstone-Challanges/Boogeyman-2.md)
 ---
 # 🎯 Repository Goals
 
