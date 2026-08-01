@@ -106,6 +106,7 @@ Every room includes:
 - [Intro to Cyber Threat Intel](./12-Threat-Analysis-Tools/Intro-to-Cyber-Threat-Intel.md)
 - [File and Hash Threat Intel](./12-Threat-Analysis-Tools/File-and-Hash-Threat-Intel.md)
 - [IP and Domain Threat Intel](./12-Threat-Analysis-Tools/IP-and-Domain-Threat-Intel.md)
+- [Invite Only](./12-Threat-Analysis-Tools/Invite-Only.md)
 ---
 # 🎯 Repository Goals
 
