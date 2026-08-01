@@ -259,7 +259,7 @@ Covered:
 
 ---
 <p align="center">
-  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/Web-Defender-badge.png?raw=true" alt="Detecting Web DDoS Banner" width="900"/>
+  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/Web-Defender-badge.png?raw=true" alt="Web Defender badge" width="900"/>
 </p>
 ---
 
