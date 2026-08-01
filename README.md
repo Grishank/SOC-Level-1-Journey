@@ -82,6 +82,7 @@ Every room includes:
 - [Web Security Essentials](./08-Web-Security-Monitoring/Web-Security-Essentials.md)
 - [Detecting Web Attacks](./08-Web-Security-Monitoring/Detecting-Web-Attacks.md)
 - [Detecting Web Shells](./08-Web-Security-Monitoring/Detecting-Web-Shells.md)
+- [Detecting Web DDoS](./08-Web-Security-Monitoring/Detecting-Web-DDoS.md)
 ---
 # 🎯 Repository Goals
 
