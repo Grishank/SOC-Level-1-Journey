@@ -98,6 +98,7 @@ Every room includes:
 ---
 ## 🔹 11 — Malware Concepts for SOC *(Completed So Far)*
 - [Malware Classification](./11-Malware-Concepts-for-SOC/Malware-Classification.md)
+- [Intro to Malware Analysis](./11-Malware-Concepts-for-SOC/Intro-to-Malware-Analysis.md)
 ---
 # 🎯 Repository Goals
 
