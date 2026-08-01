@@ -120,6 +120,7 @@ Every room includes:
 - [Tempest](./14-SOC-Level-1-Capstone-Challanges/Tempest.md)
 - [Boogeyman 1](./14-SOC-Level-1-Capstone-Challanges/Boogeyman-1.md)
 - [Boogeyman 2](./14-SOC-Level-1-Capstone-Challanges/Boogeyman-2.md)
+- [Boogeyman 3](./14-SOC-Level-1-Capstone-Challanges/Boogeyman-3.md)
 ---
 # 🎯 Repository Goals
 
