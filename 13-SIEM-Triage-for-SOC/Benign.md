@@ -67,6 +67,10 @@ Objective:
 Determine whether the activity represents a real compromise or legitimate system behavior.
 
 ---
+<p align="center">
+  <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/Benign-badge.png?raw=true" alt="Benign Banner" width="900"/>
+</p>
+---
 
 # 🛡️ Skills Practiced
 
