@@ -78,11 +78,14 @@ Every room includes:
 - [Man in the Middle Detection](./07-Network-Security-Monitoring/Man-in-the-Middle-Detection.md)
 - [Snort](./07-Network-Security-Monitoring/Snort.md)
 ---
-## 🔹 08 — Web Security Monitoring *(Completed So Far)*
+## 🔹 08 — Web Security Monitoring *(Completed)*
 - [Web Security Essentials](./08-Web-Security-Monitoring/Web-Security-Essentials.md)
 - [Detecting Web Attacks](./08-Web-Security-Monitoring/Detecting-Web-Attacks.md)
 - [Detecting Web Shells](./08-Web-Security-Monitoring/Detecting-Web-Shells.md)
 - [Detecting Web DDoS](./08-Web-Security-Monitoring/Detecting-Web-DDoS.md)
+---
+## 🔹 09 — Windows Security Monitoring *(Completed So Far)*
+- [Windows Logging for SOC](./09-Windows-Security-Monitoring/Windows-Logging-for-SOC.md)
 ---
 # 🎯 Repository Goals
 
