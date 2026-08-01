@@ -92,9 +92,9 @@ Every room includes:
 ---
 ## 🔹 10 — Linux Security Monitoring *(Completed So Far)*
 - [Linux Logging for SOC](./10-Linux-Security-Monitoring/Linux-Logging-for-SOC.md)
-- [Linux Threat Detection 1](./09-Linux-Security-Monitoring/Linux-Threat-Detection-1.md)
-- [Linux Threat Detection 2](./09-Linux-Security-Monitoring/Linux-Threat-Detection-2.md)
-- [Linux Threat Detection 3](./09-Linux-Security-Monitoring/Linux-Threat-Detection-3.md)
+- [Linux Threat Detection 1](./10-Linux-Security-Monitoring/Linux-Threat-Detection-1.md)
+- [Linux Threat Detection 2](./10-Linux-Security-Monitoring/Linux-Threat-Detection-2.md)
+- [Linux Threat Detection 3](./10-Linux-Security-Monitoring/Linux-Threat-Detection-3.md)
 ---
 # 🎯 Repository Goals
 
