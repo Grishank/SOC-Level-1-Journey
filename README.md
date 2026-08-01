@@ -87,6 +87,8 @@ Every room includes:
 ## 🔹 09 — Windows Security Monitoring *(Completed So Far)*
 - [Windows Logging for SOC](./09-Windows-Security-Monitoring/Windows-Logging-for-SOC.md)
 - [Windows Threat Detection 1](./09-Windows-Security-Monitoring/Windows-Threat-Detection-1.md)
+- [Windows Threat Detection 2](./09-Windows-Security-Monitoring/Windows-Threat-Detection-2.md)
+- [Windows Threat Detection 3](./09-Windows-Security-Monitoring/Windows-Threat-Detection-3.md)
 ---
 # 🎯 Repository Goals
 
