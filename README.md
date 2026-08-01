@@ -1,30 +1,55 @@
-# 🛡️ SOC Level 1 — TryHackMe Journey
-
-This repository documents my hands-on learning journey through the **SOC Level 1 Path** on TryHackMe.
+# 🛡️ SOC Level 1 Journey — TryHackMe
 
 <p align="center">
   <img src="https://github.com/Grishank/SOC-Level-1-Journey/blob/main/assets/First-Step-in-to-SOC-badge.png?raw=true" alt="Systems as Attack Vectors Banner" width="900"/>
 </p>
 
-The goal of this repository is to build practical knowledge in:
-- Blue Team operations
-- Threat investigation
-- SIEM analysis
-- Log analysis
-- Incident response
-- Detection engineering
-- Defensive security workflows
+<p align="center">
 
-Every room includes:
-- Notes and summaries
-- Key concepts
-- Important commands/tools
-- Investigation workflows
-- Practical learning points
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Platform](https://img.shields.io/badge/TryHackMe-SOC%20Level%201-red)
+![Rooms](https://img.shields.io/badge/Rooms-56+-blue)
+![Writeups](https://img.shields.io/badge/Writeups-56+-orange)
+![Blue%20Team](https://img.shields.io/badge/Focus-Blue%20Team-blue)
+
+</p>
 
 ---
 
-# 📚 Current Modules
+## 📖 About
+
+This repository documents my complete journey through the **TryHackMe SOC Level 1 Learning Path**, where I developed practical Blue Team skills by solving hands-on investigation labs, SIEM challenges, malware analysis exercises, phishing investigations, and full incident response scenarios.
+
+The repository contains detailed write-ups, investigation notes, workflows, and learning summaries for every completed room.
+
+---
+
+## 🏆 Achievement
+
+✅ Successfully completed the **SOC Level 1 Learning Path**
+
+📅 Completion Date: **1 August 2026**
+
+⏱️ Total Learning Time: **65 Hours 29 Minutes**
+
+📜 Official TryHackMe Certificate included.
+
+# 📊 Repository Statistics
+
+| Category | Count |
+|----------|------:|
+| Learning Path | 1 |
+| Modules | 14 |
+| Rooms Completed | 56+ |
+| Investigation Labs | 15+ |
+| SIEM Labs | ✔ |
+| Capstone Challenges | ✔ |
+| Write-ups | 56+ |
+| Certificate | ✔ |
+
+---
+
+# 📚 Modules :
 
 ## 🔹 01 — Blue Team Introduction *(Completed)*
 - [Junior Security Analyst Intro](./01-Blue-Team-Introduction/Junior-Security-Analyst-Intro.md)
@@ -116,7 +141,7 @@ Every room includes:
 - [ItsyBitsy](./13-SIEM-Triage-for-SOC/ItsyBitsy.md)
 - [Benign](./13-SIEM-Triage-for-SOC/Benign.md)
 ---
-## 🔹 14 — SOC Level 1 Capstone Challenges *(Completed So Far)*
+## 🔹 14 — SOC Level 1 Capstone Challenges *(Completed)*
 - [Tempest](./14-SOC-Level-1-Capstone-Challanges/Tempest.md)
 - [Boogeyman 1](./14-SOC-Level-1-Capstone-Challanges/Boogeyman-1.md)
 - [Boogeyman 2](./14-SOC-Level-1-Capstone-Challanges/Boogeyman-2.md)
@@ -125,27 +150,44 @@ Every room includes:
 ---
 # 🎯 Repository Goals
 
-Through this journey, I aim to strengthen:
-- Security monitoring skills
-- Threat detection workflows
-- SOC investigation methodology
-- Windows & Linux investigation basics
-- SIEM investigation skills
-- Blue Team operational knowledge
-- Real-world SOC analyst thinking
+This repository demonstrates my practical experience in:
+
+- Security Monitoring
+- SOC Operations
+- Threat Hunting
+- SIEM Investigations
+- Log Analysis
+- Digital Forensics
+- Malware Investigation
+- Incident Response
+- Threat Intelligence
+- Detection Engineering Fundamentals
+
+The goal is to build a public portfolio that showcases my hands-on Blue Team skills and continuous learning as I prepare for a SOC Analyst role.
 
 ---
 
-# 🧠 Topics Covered
-- SOC Fundamentals
-- SIEM Platforms
-- Log Analysis
-- Threat Hunting
-- Incident Response
-- Security Monitoring
-- Network Traffic Analysis
-- Detection Engineering Basics
+# 🧠 Skills Demonstrated
 
+- SOC Analyst Workflow
+- Alert Triage
+- Windows Event Analysis
+- Linux Log Analysis
+- Splunk
+- Elastic
+- EDR
+- SOAR
+- Threat Intelligence
+- Malware Analysis
+- Phishing Analysis
+- Network Traffic Analysis
+- Wireshark
+- Snort
+- MITRE ATT&CK
+- Cyber Kill Chain
+- Pyramid of Pain
+- Incident Response
+- Digital Forensics
 ---
 
 # 📂 Repository Structure
@@ -158,14 +200,27 @@ SOC-Level-1-Journey/
 └── README.md
 ```
 
+# 🚀 What's Next?
+
+With the SOC Level 1 path completed, I am continuing to expand my Blue Team skills through:
+
+- SOC Investigation Labs
+- DFIR Challenges
+- Threat Hunting
+- Detection Engineering
+- Malware Analysis
+- Purple Team Exercises
+- Home Lab Projects
+- Python for Security Automation
+- Cloud Security Monitoring
 ---
 
-# 🚀 Ongoing Journey
+# 📜 Certification
 
-This repository will continue growing as I progress through:
-- SOC Level 1 Labs
-- Blue Team Investigations
-- SIEM Challenges
-- Threat Detection Labs
-- Incident Response Scenarios
-- Real-world Security Analysis
+<p align="center">
+
+<img src="./assets/THM-Z70PBGUTI.png" width="900">
+
+</p>
+
+**TryHackMe — SOC Level 1 Learning Path**
