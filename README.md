@@ -90,6 +90,9 @@ Every room includes:
 - [Windows Threat Detection 2](./09-Windows-Security-Monitoring/Windows-Threat-Detection-2.md)
 - [Windows Threat Detection 3](./09-Windows-Security-Monitoring/Windows-Threat-Detection-3.md)
 ---
+## 🔹 10 — Linux Security Monitoring *(Completed So Far)*
+- [Linux Logging for SOC](./10-Linux-Security-Monitoring/Linux-Logging-for-SOC.md)
+---
 # 🎯 Repository Goals
 
 Through this journey, I aim to strengthen:
